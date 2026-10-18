@@ -32,4 +32,4 @@ python -m streamlit run app.py
 Academic project developed for learning and demonstration purposes.
 
 ## Author
-Add your name here.
+Varisha Fatima.
