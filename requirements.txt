@@ -6,3 +6,4 @@ plotly
 reportlab
 pdfplumber
 openpyxl
+pip install pdfplumber
