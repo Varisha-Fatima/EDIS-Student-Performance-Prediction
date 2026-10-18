@@ -1162,7 +1162,7 @@ with st.sidebar:
     </div>
     """, unsafe_allow_html=True)
 
-    page = st.radio("", [
+   page = st.radio("Navigation", [
         "🏠  Overview",
         "🔍  Single Assessment",
         "👥  Class Assessment",
